@@ -1,0 +1,15 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv
+ENV/
+env/
+venv/
+*.env
+.DS_Store
+.idea/
+.vscode/
